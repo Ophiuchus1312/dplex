@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<xml>
+    <view name="DP_ViewList">
+            <itemsPerPage>6</itemsPerPage>
+    </view>
+
+    <view name="DP_ViewBackdrop">
+            <itemsPerPage>6</itemsPerPage>
+    </view>
+    
+    <view name="DP_ViewListLong">
+            <itemsPerPage>14</itemsPerPage>
+    </view>
+    
+    <view name="DP_ViewMusic">
+            <itemsPerPage>6</itemsPerPage>
+    </view>
+</xml>
